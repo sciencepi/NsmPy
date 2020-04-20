@@ -1,0 +1,19 @@
+Copyright (C) 2020 The Python Packaging Authority
+
+Permission is granted, free of charge, to any person obtaining a copy of this software and/or documents that
+may be packaged with said "software". The person who may obtain ths software has the ability to modify, and distribute
+(you may only distribute the "software" if the distributed package has not been modified in any way). The person
+does not have any right to sell this software without permission from the "software" holder (i.e. the company/entity
+that distributes the package). The person is also not permitted to, under any circumstances, to subliscense this
+software to any other corporate and/or non corporate entity. This ability is only held by the "software" holder.
+
+The above is a copyright notice and this permission notice shall be included in all copies or substanitial
+portions of the "software" (>10%).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
