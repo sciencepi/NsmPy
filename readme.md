@@ -13,7 +13,7 @@ a feature also found in an `np.array()` structure. The shape, unlike in the NumP
 is actually used to define the dimensions of the matrix. So, for example, if you were to
 define the matrix:
 ```Python
- x = matrix([0, 0, 0, 0], shape=(2,2)
+ x = matrix([0, 0, 0, 0], shape=(2,2))
 ```
 You would create a matrix with dimensions 2x2 and with elements 0, 0, 0 and 0. This is
 incredibly useful in most python scripts that utilise this property - you don't need to do
